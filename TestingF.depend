@@ -1,0 +1,259 @@
+# depslib dependency file v1.0
+1600167372 source:d:\iut_cse\3rd semester\object oriented programing\final project\testingf\src\date.cpp
+	"Date.h"
+
+1600167370 d:\iut_cse\3rd semester\object oriented programing\final project\testingf\include\date.h
+	<ctime>
+	<cmath>
+
+1598943673 source:d:\iut_cse\3rd semester\object oriented programing\final project\testingf\src\medicine.cpp
+	"Medicine.h"
+
+1598944183 d:\iut_cse\3rd semester\object oriented programing\final project\testingf\include\medicine.h
+	<string>
+
+1600250159 d:\iut_cse\3rd semester\object oriented programing\final project\testingf\include\product.h
+	<string>
+	<iostream>
+
+1600250163 source:d:\iut_cse\3rd semester\object oriented programing\final project\testingf\src\product.cpp
+	"Product.h"
+
+1600161327 source:d:\iut_cse\3rd semester\object oriented programing\final project\testingf\src\productmanager.cpp
+	"ProductManager.h"
+	"Date.h"
+
+1598942466 d:\iut_cse\3rd semester\object oriented programing\final project\testingf\include\productmanager.h
+	"Date.h"
+
+1600244513 source:d:\iut_cse\3rd semester\object oriented programing\final project\testingf\main.cpp
+	<iostream>
+	"Date.h"
+	"Product.h"
+	"Meds.h"
+	"Sales.h"
+	"User.h"
+	"Accessories.h"
+	"Equipment.h"
+	"Administrator.h"
+	"Salesman.h"
+	"ProductManager.h"
+	<bits/stdc++.h>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<conio.h>
+
+1599404647 d:\iut_cse\3rd semester\object oriented programing\final project\testingf\include\meds.h
+	"Product.h"
+
+1599977590 source:d:\iut_cse\3rd semester\object oriented programing\final project\testingf\src\meds.cpp
+	"Meds.h"
+
+1599836927 d:\iut_cse\3rd semester\object oriented programing\final project\testingf\include\sales.h
+	"Date.h"
+
+1598973155 source:d:\iut_cse\3rd semester\object oriented programing\final project\testingf\src\sales.cpp
+	"Sales.h"
+
+1600230903 source:d:\iut_cse\3rd semester\object oriented programing\final project\testingf\src\user.cpp
+	"User.h"
+
+1600241248 d:\iut_cse\3rd semester\object oriented programing\final project\testingf\include\user.h
+	"Date.h"
+	<string>
+	<iostream>
+	<fstream>
+	<cstring>
+	"Meds.h"
+	"Accessories.h"
+	"Equipment.h"
+	"ProductManager.h"
+	"Sales.h"
+
+1599828646 d:\iut_cse\3rd semester\object oriented programing\final project\testingf\include\accessories.h
+	"Product.h"
+
+1599828740 d:\iut_cse\3rd semester\object oriented programing\final project\testingf\include\equipment.h
+	<Product.h>
+
+1599978009 source:d:\iut_cse\3rd semester\object oriented programing\final project\testingf\src\accessories.cpp
+	"Accessories.h"
+
+1599977590 source:d:\iut_cse\3rd semester\object oriented programing\final project\testingf\src\equipment.cpp
+	"Equipment.h"
+
+1600230905 d:\iut_cse\3rd semester\object oriented programing\final project\testingf\include\administrator.h
+	"User.h"
+
+1600230905 d:\iut_cse\3rd semester\object oriented programing\final project\testingf\include\salesman.h
+	"User.h"
+
+1600230905 source:d:\iut_cse\3rd semester\object oriented programing\final project\testingf\src\administrator.cpp
+	"Administrator.h"
+
+1600243089 source:d:\iut_cse\3rd semester\object oriented programing\final project\testingf\src\salesman.cpp
+	"Salesman.h"
+
+1599978009 source:d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\src\accessories.cpp
+	"Accessories.h"
+
+1599828646 d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\include\accessories.h
+	"Product.h"
+
+1600250159 d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\include\product.h
+	<string>
+	<iostream>
+
+1600230905 source:d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\src\administrator.cpp
+	"Administrator.h"
+
+1600230905 d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\include\administrator.h
+	"User.h"
+
+1600241248 d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\include\user.h
+	"Date.h"
+	<string>
+	<iostream>
+	<fstream>
+	<cstring>
+	"Meds.h"
+	"Accessories.h"
+	"Equipment.h"
+	"ProductManager.h"
+	"Sales.h"
+
+1600167370 d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\include\date.h
+	<ctime>
+	<cmath>
+
+1599404647 d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\include\meds.h
+	"Product.h"
+
+1599828740 d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\include\equipment.h
+	<Product.h>
+
+1598942466 d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\include\productmanager.h
+	"Date.h"
+
+1599836927 d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\include\sales.h
+	"Date.h"
+
+1600167372 source:d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\src\date.cpp
+	"Date.h"
+
+1599977590 source:d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\src\equipment.cpp
+	"Equipment.h"
+
+1599977590 source:d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\src\meds.cpp
+	"Meds.h"
+
+1600250163 source:d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\src\product.cpp
+	"Product.h"
+
+1600161327 source:d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\src\productmanager.cpp
+	"ProductManager.h"
+	"Date.h"
+
+1598973155 source:d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\src\sales.cpp
+	"Sales.h"
+
+1600243089 source:d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\src\salesman.cpp
+	"Salesman.h"
+
+1600230905 d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\include\salesman.h
+	"User.h"
+
+1600230903 source:d:\iut_cse\3rd semester\object oriented programing\final project\pharmacy managment system\src\user.cpp
+	"User.h"
+
+1600276359 source:g:\projects\pharmacy managment system\pharmacy managment system\src\accessories.cpp
+	"Accessories.h"
+
+1600276389 g:\projects\pharmacy managment system\pharmacy managment system\include\accessories.h
+	"Product.h"
+
+1600276396 g:\projects\pharmacy managment system\pharmacy managment system\include\product.h
+	<string>
+	<iostream>
+
+1600276360 source:g:\projects\pharmacy managment system\pharmacy managment system\src\administrator.cpp
+	"Administrator.h"
+
+1600276390 g:\projects\pharmacy managment system\pharmacy managment system\include\administrator.h
+	"User.h"
+
+1600276402 g:\projects\pharmacy managment system\pharmacy managment system\include\user.h
+	"Date.h"
+	<string>
+	<iostream>
+	<fstream>
+	<cstring>
+	"Meds.h"
+	"Accessories.h"
+	"Equipment.h"
+	"ProductManager.h"
+	"Sales.h"
+
+1600276392 g:\projects\pharmacy managment system\pharmacy managment system\include\date.h
+	<ctime>
+	<cmath>
+
+1600276395 g:\projects\pharmacy managment system\pharmacy managment system\include\meds.h
+	"Product.h"
+
+1600276393 g:\projects\pharmacy managment system\pharmacy managment system\include\equipment.h
+	<Product.h>
+
+1600276398 g:\projects\pharmacy managment system\pharmacy managment system\include\productmanager.h
+	"Date.h"
+
+1600276399 g:\projects\pharmacy managment system\pharmacy managment system\include\sales.h
+	"Date.h"
+
+1600276362 source:g:\projects\pharmacy managment system\pharmacy managment system\src\date.cpp
+	"Date.h"
+
+1600276363 source:g:\projects\pharmacy managment system\pharmacy managment system\src\equipment.cpp
+	"Equipment.h"
+
+1600276365 source:g:\projects\pharmacy managment system\pharmacy managment system\src\meds.cpp
+	"Meds.h"
+
+1600276366 source:g:\projects\pharmacy managment system\pharmacy managment system\src\product.cpp
+	"Product.h"
+
+1600276367 source:g:\projects\pharmacy managment system\pharmacy managment system\src\productmanager.cpp
+	"ProductManager.h"
+	"Date.h"
+
+1600276369 source:g:\projects\pharmacy managment system\pharmacy managment system\src\sales.cpp
+	"Sales.h"
+
+1600276370 source:g:\projects\pharmacy managment system\pharmacy managment system\src\salesman.cpp
+	"Salesman.h"
+
+1600276400 g:\projects\pharmacy managment system\pharmacy managment system\include\salesman.h
+	"User.h"
+
+1600276371 source:g:\projects\pharmacy managment system\pharmacy managment system\src\user.cpp
+	"User.h"
+
+1600276409 source:g:\projects\pharmacy managment system\pharmacy managment system\main.cpp
+	<iostream>
+	"Date.h"
+	"Product.h"
+	"Meds.h"
+	"Sales.h"
+	"User.h"
+	"Accessories.h"
+	"Equipment.h"
+	"Administrator.h"
+	"Salesman.h"
+	"ProductManager.h"
+	<bits/stdc++.h>
+	<fstream>
+	<sstream>
+	<stdlib.h>
+	<conio.h>
+
