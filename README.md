@@ -14,11 +14,11 @@ We have developed this system for our OOP project in the third semester. We have
 ## Features
 For Administrator :
 <ul>
-        <li>Adding new products which is available in the store.</li>
-        <li>Updating the price of a cartain product.</li>
-        <li>Deleting a certain product if needed.</li>
-        <li>Updating the stock.</li>
-        <li>Access all product info.</li>
+        <li>Can add new products which is available in the store.</li>
+        <li>Can update the price of a cartain product.</li>
+        <li>Can delete a certain product if needed.</li>
+        <li>Can update the stock.</li>
+        <li>Can access all product info.</li>
         <li>Can find which products are expired.</li>
         <li>Can find the salesmen that work for him\her.</li>
         <li>Can Add new salesmen data for a new salesmen to log in to the system.</li>
@@ -32,7 +32,7 @@ For Administrator :
 For Salesmen :
 <ul>
         <li>Can search for different products that are available.</li>
-        <li>Making entries when selling products. </li>
+        <li>Can make entries when selling products. </li>
         <li>Can change his\her own password.</li>
 </ul>
 
